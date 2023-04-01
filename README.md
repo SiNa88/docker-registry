@@ -49,7 +49,7 @@ auth:
       path: /etc/docker/registry/auth/registry.password
 ```
 
-### Run minio in a container
+### Run minio in as a container
 
 ```
 username@machine:~$ sudo docker run -d \
