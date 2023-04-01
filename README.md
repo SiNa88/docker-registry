@@ -5,7 +5,9 @@ Setting up a private Docker registry on a MinIO repository
 ## Running a docker registry with Minio S3 backend
 
 ### Create config.yml for Docker Registry
-### This file will have to be mounted to /etc/docker/registry/config.yml
+
+This file will have to be mounted to /etc/docker/registry/config.yml
+
 ```
 version: 0.1
 log:
