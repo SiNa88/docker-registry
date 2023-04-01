@@ -77,13 +77,12 @@ docker run -d -p 5000:5000 \
 
 ### Tag some image to push to the registry
 `docker tag alpine:3.10 <docker host ip running registry>:5000/alpine:3.10`
+
 `docker push <docker host ip running registry>:5000/alpine:3.10`
 
 
 
-### Creating username and password for Docker login based on the following tutorial:
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04
+### Creating username and password for Docker login based on the following tutorial[https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04]
 
 
 ```
