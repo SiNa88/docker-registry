@@ -52,7 +52,7 @@ auth:
 ### Run minio in as a container
 
 ```
-username@machine:~$ sudo docker run -d \
+sudo docker run -d \
    -p 9000:9000 \
    -p 9090:9090 \
    --name minio \
