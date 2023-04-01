@@ -82,7 +82,7 @@ docker run -d -p 5000:5000 \
 
 
 
-### Creating username and password for Docker login based on [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04)
+### Create username and password for user authenticated through `docker login` based on [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04)
 
 
 ```
