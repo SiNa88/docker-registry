@@ -1,6 +1,6 @@
 # Private Docker registry
 
-Setting up a private Docker registry on a MinIO repository
+Setting up a private Docker registry on a MinIO object repository
 
 ## Running a docker registry with Minio S3 backend
 
