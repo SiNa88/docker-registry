@@ -96,7 +96,7 @@ docker run -d -p 5000:5000 \
 ```
 
 # Citation
-N. Mehran, Z. N. Samani, R. Farahani, J. Hammer, and D. Kimovski, "DEEP: Edge-Based Dataflow Processing with Hybrid Docker Hub and Regional Registries," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Milano, Italy, 2025, pp. 1039-1042. [https://doi.org/10.1109/IPDPSW66978.2025.00162]([https://ieeexplore.ieee.org/abstract/document/9912724](https://ieeexplore.ieee.org/abstract/document/11105839))
+N. Mehran, Z. N. Samani, R. Farahani, J. Hammer, and D. Kimovski, "DEEP: Edge-Based Dataflow Processing with Hybrid Docker Hub and Regional Registries," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Milano, Italy, 2025, pp. 1039-1042. [https://doi.org/10.1109/IPDPSW66978.2025.00162](https://ieeexplore.ieee.org/abstract/document/11105839)
 
 
 
